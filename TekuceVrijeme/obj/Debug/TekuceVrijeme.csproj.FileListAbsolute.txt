@@ -1,0 +1,11 @@
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\bin\Debug\TekuceVrijeme.exe.config
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\bin\Debug\TekuceVrijeme.exe
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\bin\Debug\TekuceVrijeme.pdb
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.csproj.AssemblyReference.cache
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.Form1.resources
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.Properties.Resources.resources
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.exe
+C:\Users\Anastasija\Documents\lmao\TekuceVrijeme\obj\Debug\TekuceVrijeme.pdb
